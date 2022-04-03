@@ -418,6 +418,11 @@ h3 {
         ;
     }
 
+    #preview {
+        width: 250px;
+        height: 175px;
+    }
+
     .right-column {
         justify-content: center;
     }
